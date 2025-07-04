@@ -1,0 +1,17 @@
+
+VPN Used
+- Windscribe
+
+
+
+Steps Performed
+
+1. Downloaded and installed Windscribe VPN on Windows.
+2. Registered for a free account.
+3. Launched VPN and connected to the **Hong Kong (Victoria)** server using the **WireGuard protocol**.
+4. Verified IP change on [https://whatismyipaddress.com](https://whatismyipaddress.com):
+   - IP before VPN: 49.36.43.64
+   - IP after VPN: `146.70.250.29` (Hong Kong)
+5. Browsed websites with HTTPS and confirmed that traffic was routed through the VPN tunnel.
+6. Observed bandwidth limitations and minor speed differences.
+
